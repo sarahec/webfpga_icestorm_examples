@@ -33,3 +33,7 @@ Implements `@FPGA_TOP`.
 ## [1.1.3]
 
 Turns on linting via verilator.
+
+## [1.2.0]
+
+Adds the System Verilog Language Server (svls)
